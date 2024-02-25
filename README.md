@@ -2,7 +2,7 @@
 - 👀 I’m interested in climate science and data analytics
 - 🌱 I’m currently learning Hadoop
 - 💞️ I’m looking to collaborate on paleoclimate reconstruction based on synthesis of both instrumental and proxy data
-- 📫 How to reach me -baopiyo@uark.edu/opiyobenjamin@gmail.com
+- 📫 How to reach me -baopiyo@uark.edu/opiyobenjamin0@gmail.com
 -                    -4044530497
 
 <!---
